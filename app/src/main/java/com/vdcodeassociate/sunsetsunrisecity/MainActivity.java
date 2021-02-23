@@ -2,8 +2,10 @@ package com.vdcodeassociate.sunsetsunrisecity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,4 +16,12 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("This is a Log.","By vd.");
     }
+
+    protected void GetSunset(View view){
+
+//        URL url =
+
+    }
+
+
 }
